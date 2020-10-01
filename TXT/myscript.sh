@@ -1,6 +1,6 @@
 #!/bin/bash
 # Fathinah
-# PALSU BANGET SEKALI UBAH
+# PALSU SEKALI UBAH
 
 FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
 SHA="SHA256SUM"
