@@ -1,3 +1,3 @@
 ### OS 2020 Class
-Name : Fathinah Izzati
+Name : Fathinah Izzati ||
 Student No. : 1806235744
