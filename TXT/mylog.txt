@@ -44,3 +44,14 @@ ZCZC W03  15 L17 Assignment #7
 ZCZC W03  15 L18 Assignment #8
 ZCZC W03  15 L19 Assignment #9
 ZCZC W03  15 L20 Assignment #10
+ZCZC W04  40 L11 Assignment #1
+ZCZC W04  20 L12 Assignment #2
+ZCZC W04  15 L13 Assignment #3
+ZCZC W04  150 L14 Assignment #4
+ZCZC W04  45 L15 Assignment #5
+ZCZC W04  20 L16 Assignment #6
+ZCZC W04  15 L17 Assignment #7
+ZCZC W04  15 L18 Assignment #8
+ZCZC W04  15 L19 Assignment #9
+ZCZC W00  20 L07 Demo related
+ZCZC W01  120 L02 ZOOM related
