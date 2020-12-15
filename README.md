@@ -1,3 +1,2 @@
-### OS 2020 Class
-Name : Fathinah Izzati ||
-Student No. : 1806235744
+## OS 202
+gitlab page for weekly memos can be found at https://fathinah.github.io/os202/
